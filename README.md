@@ -1,15 +1,4 @@
 
-
-
-
-
-
-
-
-
-
-
-material-dashboard-react
     ├── public
     │   ├── apple-icon.png
     │   ├── favicon.png
@@ -79,8 +68,4 @@ material-dashboard-react
 
 
 
-Dribbble: <https://dribbble.com/creativetim>
 
-Google+: <https://plus.google.com/+CreativetimPage>
-
-Instagram: <https://instagram.com/creativetimofficial>
